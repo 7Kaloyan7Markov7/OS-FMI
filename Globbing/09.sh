@@ -1,2 +1,2 @@
 #!/bin/bash
-find -name 'test*[0-9]'
+find -name 'test[0-9]'
