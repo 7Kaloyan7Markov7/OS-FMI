@@ -1,3 +1,4 @@
+to do
 1) List all .txt files
 2) List files starting with lowercase letters only
 3) List files starting with uppercase letters only
