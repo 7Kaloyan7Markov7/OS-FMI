@@ -1,5 +1,4 @@
 #!/bin/bash
-#test
 
 if [[ ${#} -ne 1 ]]; then
 
