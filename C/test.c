@@ -3,8 +3,8 @@
 
 int main()
 {
-  fork();
-  fork();
+  int id = fork();
+  int id = fork();
   
   printf("Hello World\n");
   return 0;
